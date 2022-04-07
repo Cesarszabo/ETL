@@ -5,3 +5,4 @@
     A limpeza é feita sobre os dados nulos e a transformação através de filtros.  
     O objetivo é a saída de um banco de dados personalizado conforme a necessidade do usuário.   
 
+### O arquivo está na pasta ETL\Projeto.py
